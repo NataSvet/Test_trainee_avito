@@ -32,12 +32,11 @@ selenium_env\Scripts\activate.bat
 ```
 - Установить зависимости
 ```
+cd task1_add_favorites
 pip install -r requirements.txt
 ```
 - Перейти в папку с тестом task1_add_favorites и запустить его
 ```
-cd task1_add_favorites
-
 pytest test_add_to_favorites.py
 ```
 
