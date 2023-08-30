@@ -13,14 +13,13 @@
 - ChromeDriver [скачать](https://sites.google.com/chromium.org/driver/) можно тут
 
 #### Как запустить тест (командная строка Windows): 
-- Копировать репозиторий
+- Cкопировать репозиторий
 ```
 git clone https://github.com/NataSvet/Test_trainee_avito.git
-
-- Создать папку, в которой будет храниться виртуальное окружение и переходим в неё
+```
+- Создать папку, в которой будет храниться виртуальное окружение и перейти в неё
 ```
 mkdir environment
-
 cd environment
 ```
 - Создать вируальное окружение:
@@ -33,6 +32,7 @@ selenium_env\Scripts\activate.bat
 ```
 - Установить зависимости
 ```
+cd task1_add_favorites
 pip install -r requirements.txt
 ```
 - Перейти в папку с тестом task1_add_favorites и запустить его
