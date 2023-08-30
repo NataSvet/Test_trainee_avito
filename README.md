@@ -1,7 +1,7 @@
 # Test_trainee_avito
 
 ## Задание 1
-Открыть папку task2_test_plan и скачать файл .xlsx
+Открыть папку task2_test_plan и скачать файл Test_plan_QA_Svetlova.xlsx
 
 ## Задание 2
 
