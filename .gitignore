@@ -1,0 +1,4 @@
+task1_add_favorites/environments/selenium_env
+task1_add_favorites/pages/__pycache__
+task1_add_favorites/__pycache__
+task1_add_favorites/.pytest_cache
